@@ -44,6 +44,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivityForResult(intent,1);
             }
         });
+        if ()
     }
 
     @Override
